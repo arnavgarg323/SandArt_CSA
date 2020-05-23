@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SandUtilities
+comment1.params=c
+comment1.target=java.awt.Color\ invert(java.awt.Color)
+comment2.params=m\ skip1\ skip2
+comment2.target=void\ invertColors(java.awt.Color[][],\ java.awt.Color,\ java.awt.Color)
+comment3.params=m
+comment3.target=void\ flipUpsideDown(java.lang.Object[][])
+comment4.params=m
+comment4.target=void\ rotateLeft(java.lang.Object[][])
+comment5.params=m
+comment5.target=void\ rotateRight(java.lang.Object[][])
+comment6.params=m\ r\ c
+comment6.target=void\ swap(java.lang.Object[][],\ int,\ int)
+comment7.params=m
+comment7.target=void\ transpose(java.lang.Object[][])
+numComments=8
